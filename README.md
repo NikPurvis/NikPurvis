@@ -9,7 +9,7 @@ As a Full Stack developer, I take pride in my involvement every step of the way,
 * 🌍  I'm based in Billings, Montana
 * 🖥️  See my portfolio at [nikpurvis.com](http://nikpurvis.com)
 * ✉️  You can contact me at [nikpurvis@gmail.com](mailto:nikpurvis@gmail.com)
-* 🧠  I'm currently focused on furthering my React skills
+* 🧠  I'm currently focused on expanding my application building and furthering my React skills
 
 ### Skills
 
